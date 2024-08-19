@@ -25,12 +25,12 @@ The project consists of the following main services:
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/fokaz-c/File-Reader.git
    ```
 
 2. **Navigate to the Project Directory**:
    ```bash
-   cd <project-directory>
+   cd File-Reader
    ```
 
 3. **Compile the Project**:
