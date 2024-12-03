@@ -1,4 +1,4 @@
-# File Processing Application
+# File Processing Application.
 
 This project is a simple file processing application written in Java. It reads numbers from a text file, calculates their sum and average, and writes the result to an output file.
 
